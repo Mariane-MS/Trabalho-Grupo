@@ -17,8 +17,20 @@ programa {
         pare
       caso 2:
         escreva ("A subtração é: ", (a-b))
+        pare
       caso 3: 
         escreva ("A multiplicação é: ", (a*b))
+        pare
+      caso 4: 
+      se (b == 0) {
+        escreva("Não é possível dividir por 0")
+        pare
+      }
+        escreva ("A divisão é: ", (a/b))
+        pare
+      caso contrario:
+        escreva ("Valor inválido! ")
+      
     }
   }
 }

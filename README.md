@@ -11,3 +11,5 @@ Integrante 1
     Contribuição 1: Estrutura inicial da calculadora. Criação do README.
 Integrante 2
     Contribuição 1: Fiz a multiplicação e utilizei os comandos git clone, cd Trabalho-Grupo, git pull, git add, git commit e git push
+Integrante 3
+    Contribuição 1: Finalizei a calculadora acrescentando a divisão. Utilizei os comandos git clone, cd Trabalho-Grupo, git pull, git add, git commit e git push.
