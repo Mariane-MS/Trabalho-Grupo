@@ -17,7 +17,8 @@ programa {
         pare
       caso 2:
         escreva ("A subtração é: ", (a-b))
-
+      caso 3: 
+        escreva ("A multiplicação é: ", (a*b))
     }
   }
 }
